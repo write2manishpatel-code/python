@@ -1,0 +1,4 @@
+message = input("Enter a message: ")
+
+if message == "congrats on winning a gold medal":
+    print("CONGRATS ON WINNING A GOLD MEDAL")
